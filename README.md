@@ -12,10 +12,10 @@ repositorio de spring donde se crea mvc de una base de datos con una tabla emple
    - Abir carpeta `application.properties`
    - Agregar contraseña en 	`spring.datasource.password=` por la contraseña que ocupe para su conexion local
    - ``` //spring.datasource.password= ```
-3. Regresar a la carpeta principal
+3. Regresar a la carpeta principal    
    -Abrir desde ese nivel con su ide de su preferencia.
    -En su ide abrir la carpeta `src`.
-   -Correr el archivo `GetTablaEmpleadosApplication.java` contenido en la siguiente ruta `/src/main/java/com/empleados/demo`
+   -Correr el archivo `GetTablaEmpleadosApplication.java`contenido en la siguiente ruta `/src/main/java/com/empleados/demo`
 
     
   
