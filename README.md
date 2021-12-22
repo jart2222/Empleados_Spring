@@ -20,11 +20,11 @@ spring.datasource.username=root
 
 ```
 
-3. Regresar a la carpeta principal.    
+3. Regresar a la carpeta principal.
    -Abrir desde ese nivel con su ide de su preferencia.
-   -En su ide abrir la carpeta `src`
-   -Correr el archivo `GetTablaEmpleadosApplication.java` contenido en la siguiente ruta
-   `/src/main/java/com/empleados/demo`
+   -En su ide abrir la carpeta `src`.
+   -Correr el archivo `GetTablaEmpleadosApplication.java` contenido en la siguiente ruta `/src/main/java/com/empleados/demo`
+
     
   
  
