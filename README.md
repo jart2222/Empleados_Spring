@@ -8,10 +8,15 @@ repositorio de spring donde se crea mvc de una base de datos con una tabla emple
    - abrir carpeta `main`
    - abrir carpeta `resources`
    - abir carpeta `application.properties`
-   - cambiar 	password por la contraseña que ocupe para su conexion remota 	
+   - agregar contraseña en 	`spring.datasource.password=` por la contraseña que ocupe para su conexion local
 ```
 spring.datasource.url = jdbc:mysql://localhost:3306/empleados_bd
 
 spring.datasource.username=root
 
-//spring.datasource.password=root ```
+//spring.datasource.password= ```
+
+3. Regresar a la carpeta principal y abrir con su ide de preferencia
+
+
+
